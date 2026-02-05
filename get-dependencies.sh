@@ -30,4 +30,4 @@ echo "$VERSION" > ~/version
 
 cd ./OpenLara/src/platform/sdl2
 ./build.sh
-mv -v OpenLara /usr/bin/openlara
+mv -v OpenLara /usr/bin
