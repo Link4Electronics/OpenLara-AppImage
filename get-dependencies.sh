@@ -31,3 +31,4 @@ echo "$VERSION" > ~/version
 cd ./OpenLara/src/platform/sdl2
 ./build.sh
 mv -v OpenLara /usr/bin
+cp -rv ../psv/sce_sys/icon0.png /usr/share/pixmaps/OpenLara.png
