@@ -8,7 +8,7 @@ export ARCH VERSION
 export OUTPATH=./dist
 export ADD_HOOKS="self-updater.bg.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
-export ICON=DUMMY
+export ICON=/usr/share/pixmaps/OpenLara.png
 export DESKTOP=DUMMY
 export DEPLOY_OPENGL=1
 export DEPLOY_VULKAN=1
