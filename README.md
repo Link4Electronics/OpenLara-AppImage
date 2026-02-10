@@ -17,7 +17,7 @@
 
 </div>
 
-## ⚠️ Game assets go inside `~/.openlara` ⚠️
+## ⚠️ Game assets within `~/.openlara` ⚠️
 
 ---
 
