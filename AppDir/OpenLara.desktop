@@ -4,5 +4,6 @@ Name=OpenLara
 Comment=Classic Tomb Raider open-source engine
 Exec=openlara
 Icon=icon0
+StartupWMClass=openlara
 Terminal=false
 Categories=Game;Action;Adventure
