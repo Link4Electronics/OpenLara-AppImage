@@ -1,3 +1,4 @@
+#!/bin/false
 dir=$HOME/.openlara
 mkdir -p "$dir"
 cd "$dir"
