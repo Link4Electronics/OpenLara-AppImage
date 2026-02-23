@@ -1,3 +1,3 @@
-dir=${XDG_DATA_HOME:-~/.openlara}
+dir=$HOME/.openlara
 mkdir -p "$dir"
 cd "$dir"
